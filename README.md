@@ -45,7 +45,9 @@ nms.run();</code></pre>
 <!-- Start app.js -->
 <div style="border: 1px solid black; padding: 10px;">
     <h2>Starting The Server</h2>
-    <pre><code>node app.js</code></pre>
+    <pre><code>
+        cd rtmp
+        node app.js</code></pre>
 </div>
 
 <!-- To View From Anywhere In The World -->
