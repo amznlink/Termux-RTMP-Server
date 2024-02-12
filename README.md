@@ -65,7 +65,7 @@ nms.run();</code></pre>
 <li>Connect The Gopro To Your Mobile Hotspot. This Setup Will Not Incur Extra Charges On An
 Unlimited Mobile Plan, Even If You Have Limited Hotspot This Will Work Over The Limit.</li>
 <li>Using Another Device, Find The Ip Address Of Your Mobile Hotspot.</li>
-<li>Enter rtmp://mobile-hotspot-ip/live/stream , replace <code>mobile-hotspot-ip</code> With IP Address Of Mobile Hotspot.</li>
+<li>Enter <code>rtmp://mobile-hotspot-ip/live/stream</code> , replace <code>mobile-hotspot-ip</code> With IP Address Of Mobile Hotspot.</li>
 <li>Press Start Streaming And You Should See Node-Media-Server Output Logs On The Termux Session</li>
 </ol>
 
