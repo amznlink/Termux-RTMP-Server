@@ -55,7 +55,7 @@ nms.run();</code></pre>
 </div>
 
 <!-- Sending Video To Server -->
-    <h2>Sending Video To Server From Gopro Hero 9 Using The Quik App</h2>
+<h2>Sending Video To Server From Gopro Hero 9 Using The Quik App</h2>
 <ol>
         <li>On the Device Running Termux Start The Mobile Hotspot.</li>
         <li>Open The Quik App And Connect The Gopro. Select Live Stream And Chose Other/RTMP.</li>
