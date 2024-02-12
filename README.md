@@ -85,5 +85,16 @@ Unlimited Mobile Plan, Even If You Have Limited Hotspot This Will Work Over The 
 <p>FFMPEG Can Be Used To Stream To X (Formerly Twitter) Using The Relay Function</p>
 </div>
 
+<div style="background-color: #fff; padding: 20px;">
+  <h2 style="text-align: center;">This Is The Camera I Use GoPro 9 Hero</h2>
+  <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+    <a href="https://amzn.to/3OIemo1" target="_blank">
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/81fQCu7TUzL._AC_SX679_.jpg" alt="Product Banner" style="width: 50%; max-width: 300px;">
+    </a>
+    <a href="https://amzn.to/3OIemo1" target="_blank" style="margin-left: 10px; padding: 10px 20px; background-color: #FF9900; color: #fff; text-decoration: none; border-radius: 5px;">Buy Now</a>
+  </div>
+</div>
+
+
 </body>
 </html>
