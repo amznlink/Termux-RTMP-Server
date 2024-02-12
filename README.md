@@ -53,7 +53,7 @@ nms.run();</code></pre>
 <!-- To View From Anywhere In The World -->
 <div style="border: 1px solid black; padding: 10px;">
      <h2>Using Serveo To View From Anywhere In The World This Will Give You A Link
-     Open A New Termux Seesion</h2>
+     Open A New Termux Seesion (OPTIONAL) </h2>
      <pre><code>ssh -R 80:localhost:1935 serveo.net</code></pre>
 </div>
 
